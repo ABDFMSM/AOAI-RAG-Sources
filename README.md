@@ -36,7 +36,5 @@ tool_bing = return_tools()
 tools_list = tool_sql + [tool_vector] + tool_bing
 ```
 
-## Output 
-
 
 
